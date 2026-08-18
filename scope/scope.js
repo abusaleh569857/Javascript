@@ -17,3 +17,5 @@ function testScope1(topic) {
 
 testScope1("Python");
 console.log("Outside function: " + lang1);
+
+
